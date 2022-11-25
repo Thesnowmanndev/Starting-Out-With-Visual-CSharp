@@ -11,6 +11,6 @@ This repository is means to host my journey of working through Tony Gaddis's boo
 The book was written by [Tony Gaddis](https://www.amazon.com/Tony-Gaddis/e/B001I9Q67I/ref=dp_byline_cont_book_1) and you can find the book [Starting Out With Visual C# - Fifth Edition](https://a.co/d/ia65nKO) on Amazon.
 
 ### Applications in order:
-1. HelloWorld (Expect anything else?)
-2. LanguageTranslatorApplication
-3. FlagApplication
+1. [HelloWorld](https://github.com/Thesnowmanndev/Starting-Out-With-Visual-CSharp/tree/main/HelloWorld) (Expect anything else?)
+2. [LanguageTranslatorApplication](https://github.com/Thesnowmanndev/Starting-Out-With-Visual-CSharp/tree/main/LanguageTranslatorApplication)
+3. [FlagApplication](https://github.com/Thesnowmanndev/Starting-Out-With-Visual-CSharp/tree/main/FlagApplication)
