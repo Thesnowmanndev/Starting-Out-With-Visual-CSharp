@@ -4,16 +4,16 @@ Like the language translation application the goal of this application is to gen
 
 ### Base Application
 
-![image of base application]()
+![image of base application](https://github.com/Thesnowmanndev/Starting-Out-With-Visual-CSharp/blob/FlagsApplication/FlagApplication/githubImages/baseApplication.png?raw=true)
 
 ### Finland Output
 
-![image of the Finland flag clicked]()
+![image of the Finland flag clicked](https://github.com/Thesnowmanndev/Starting-Out-With-Visual-CSharp/blob/FlagsApplication/FlagApplication/githubImages/finlandFlag.png?raw=true)
 
 ### France Output
 
-![image of the French flag clicked]()
+![image of the French flag clicked](https://github.com/Thesnowmanndev/Starting-Out-With-Visual-CSharp/blob/FlagsApplication/FlagApplication/githubImages/franceFlag.png?raw=true)
 
 ### Germany Output
 
-![image of the Germany flag clicked]()
+![image of the Germany flag clicked](https://github.com/Thesnowmanndev/Starting-Out-With-Visual-CSharp/blob/FlagsApplication/FlagApplication/githubImages/germanyFlag.png?raw=true)
