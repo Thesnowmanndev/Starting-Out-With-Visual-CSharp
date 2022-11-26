@@ -4,8 +4,8 @@ The purpose of this application is to set the visibility state of a control when
 
 ### Base Application:
 
-![image of application at runtime]()
+![image of application at runtime](https://github.com/Thesnowmanndev/Starting-Out-With-Visual-CSharp/blob/CardFlipApplication/CardFlipApplication/github-images/cardFlipApplication-base.png?raw=true)
 
 ### Image of show face button clicked:
 
-![image of result after on-click event]()
+![image of result after on-click event](https://github.com/Thesnowmanndev/Starting-Out-With-Visual-CSharp/blob/CardFlipApplication/CardFlipApplication/github-images/cardFlipApplication-onclick.png?raw=true)
