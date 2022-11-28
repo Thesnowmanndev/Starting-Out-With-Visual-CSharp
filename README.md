@@ -14,7 +14,7 @@ The book was written by [Tony Gaddis](https://www.amazon.com/Tony-Gaddis/e/B001I
 
 ## Applications in order:
 
-1. [HelloWorld](https://github.com/Thesnowmanndev/Starting-Out-With-Visual-CSharp/tree/main/Tutorial%20Applications/Chapter%202/HelloWorld){:target="\_blank"} (Expect anything else?) - Tutorial Application
+1. [HelloWorld](https://github.com/Thesnowmanndev/Starting-Out-With-Visual-CSharp/tree/main/Tutorial%20Applications/Chapter%202/HelloWorld) (Expect anything else?) - Tutorial Application
 2. [LanguageTranslatorApplication](https://github.com/Thesnowmanndev/Starting-Out-With-Visual-CSharp/tree/main/Tutorial%20Applications/Chapter%202/LanguageTranslatorApplication) - Tutorial Application
 3. [FlagApplication](https://github.com/Thesnowmanndev/Starting-Out-With-Visual-CSharp/tree/main/Tutorial%20Applications/Chapter%202/FlagApplication) - Tutorial Application
 4. [CardFlipApplication](https://github.com/Thesnowmanndev/Starting-Out-With-Visual-CSharp/tree/main/Tutorial%20Applications/Chapter%202/CardFlipApplication) - Tutorial Application
